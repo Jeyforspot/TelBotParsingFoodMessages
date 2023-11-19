@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tg_bot.keyboards.client_keyboards.i18n" />
+          <option value="src.Django_project.urls.pages" />
+          <option value="src.Django_project_TODO_LIST.urls.test" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
