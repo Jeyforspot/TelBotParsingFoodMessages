@@ -60,5 +60,5 @@ venv.bak/
 # Pyre type checker
 .pyre/
 .idea/
-.env
+tgbot_template_v3/.env
 cache/
